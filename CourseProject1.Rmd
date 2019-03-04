@@ -2,7 +2,7 @@
 title: "Reproducible Research: Peer Assessment 1"
 author: "Jiaxuan Zhou"
 date: "2019/2/28"
-output: html_document
+output: md_document 
 ---
 
 ```{r setup, include=FALSE}
