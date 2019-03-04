@@ -2,7 +2,9 @@
 title: "Reproducible Research: Peer Assessment 1"
 author: "Jiaxuan Zhou"
 date: "2019/2/28"
-output: md_document 
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
